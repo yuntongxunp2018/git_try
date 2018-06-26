@@ -1,1 +1,1 @@
-msgbox "hello world"
+msgbox "hello qt"
